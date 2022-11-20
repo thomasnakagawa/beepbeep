@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "beepbeep": {
+      "commandName": "Project",
+      "commandLineArgs": "beep"
+    }
+  }
+}
